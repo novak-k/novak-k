@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Kateryna and I just finised course on Udemy: JavaScript + React - From Scratch to Results [here](https://www.udemy.com/course/javascript_full/)
+
+
+[Here is my ](https://github-readme-stats.vercel.app/api?username=mariamihai&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical&border_radius=20)
+
 
 <!--
 **novak-k/novak-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
