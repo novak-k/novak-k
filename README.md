@@ -2,8 +2,8 @@
 My name is Kateryna and I just finised course on Udemy: JavaScript + React - From Scratch to Results [here](https://www.udemy.com/course/javascript_full/)
 
 
-[Here is my GitHub status] <a href="https://github.com/novak-k">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=novak-k&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical&border_radius=20)" />
+<a href="https://github.com/novak-k">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=novak-k&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical&border_radius=20" />
 </a>
 
 
