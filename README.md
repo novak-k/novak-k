@@ -1,6 +1,6 @@
 ### Hi there 👋 
 My name is Kateryna and I just finised course on Udemy: JavaScript + React - From Scratch to Results [here](https://www.udemy.com/course/javascript_full/)
-and a [certificate](https://github.com/novak-k/window-app/blob/master/sertificate/certificate_Udemy.jpg) 
+and get a [certificate](https://github.com/novak-k/window-app/blob/master/sertificate/certificate_Udemy.jpg) 
 
 
 <a href="https://github.com/novak-k">
